@@ -3,7 +3,8 @@
  # Date: 5/7/25
 print("Menue:")
 print("1-Snake\n2-Water\n3-Gun")
-player1=0,player2=0
+player1=0
+player2=0
 
 for i in 1:
     op1 = int(input("Enter 1st option:"))
