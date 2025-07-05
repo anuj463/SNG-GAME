@@ -49,4 +49,3 @@ elif player1 == player2:
      print("Draw!")
 else:
     print("Player 2 wins!")
-    
