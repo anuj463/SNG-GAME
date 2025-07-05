@@ -46,6 +46,6 @@ print("player2 score is:",player2)
 if player1 > player2:
     print("Player 1 wins!")
 elif player1 == player2:
-     print("Draw!")
+     print("Draw")
 else:
     print("Player 2 wins!")
